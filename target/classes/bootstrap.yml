@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: customvisionmicroservice  
+    #This name will be registered in Service discovery  
+info:
+  description: ATOM Sample Microservice 

@@ -1,0 +1,11 @@
+com\syntel\app\SwaggerConfig.class
+com\syntel\exceptionhandler\TechnicalExceptionHandler.class
+com\syntel\exceptionhandler\ServiceExceptionHandler.class
+com\syntel\bo\Composite.class
+com\syntel\exceptionhandler\ValidationErrorDTO.class
+com\syntel\app\CompositeMicroServiceApplication.class
+com\syntel\exceptionhandler\ErrorDTO.class
+com\syntel\exceptionhandler\FieldErrorDTO.class
+com\syntel\exceptionhandler\ExceptionConfig.class
+com\syntel\model\CompositeDetail.class
+com\syntel\microservices\CustomVisionMicroService.class
